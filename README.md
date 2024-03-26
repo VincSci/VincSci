@@ -23,7 +23,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 Vous pouvez me contacter via :
 
-- [Mon mail](vinc.scie@outlook.fr)
+- [Mon mail] : vinc.scie@outlook.fr
 - [Mon LinkedIn](https://www.linkedin.com/in/vincent-scicluna)
 
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de collaborations potentielles !
