@@ -17,7 +17,7 @@ Je suis un développeur orienté backend. Ma passion pour le développement m'a 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 - [Responsive Website](https://github.com/VincSci/ResponsiveWebsite) : Un simple site web responsive que j'ai réaliser durant une formation
-- [TP Java](https://github.com/VincSci/TP_Java) : Un tp en java que j'avais réaliser avec d'autre apprenant durant une formation
+- [TP Java](https://github.com/VincSci/TP_Java) : Un tp en java que j'avais réaliser avec d'autres apprenants durant une formation
 
 ## Me contacter
 
