@@ -23,5 +23,5 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 Vous pouvez me contacter via :
 
-- [Mon mail] : vinc.scie@outlook.fr
+- Mon mail : vinc.scie@outlook.fr
 - [Mon LinkedIn](https://www.linkedin.com/in/vincent-scicluna)
