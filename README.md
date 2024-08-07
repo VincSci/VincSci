@@ -9,7 +9,7 @@ Je suis un développeur orienté backend. Ma passion pour le développement m'a 
 ## Compétences
 
 - Langages de programmation : Php, Python, Java
-- Technologies Web : HTML/CSS, JavaScript
+- Langages Web : HTML/CSS, JavaScript
 - Base de Données : SQL (MySQL, PostgreSQL)
 
 ## Mes projets
