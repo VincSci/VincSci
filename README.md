@@ -16,7 +16,8 @@ Je suis un développeur orienté backend. Ma passion pour le développement m'a 
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-- [Responsive Website](https://vincsci.github.io/projets/projet_refuge_tortue/index.html) : Un exemple de site web responsive que j'ai réaliser
+- [Responsive Website](https://vincsci.github.io/projets/projet_refuge_tortue/index.html) : Un site web responsive que j'ai réaliser
+- [Dice App](https://vincsci.github.io/projets/projet_dice_app/diceapp.html) : Une application web que j'ai réaliser permettant se simuler des lancers de dés
 - [TP Java](https://github.com/VincSci/TP_Java) : Un tp en java que j'avais réaliser avec d'autres apprenants durant mon BTS SIO
 
 ## Me contacter
